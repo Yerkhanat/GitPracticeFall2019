@@ -1,7 +1,4 @@
 orange
 mango
-<<<<<<< HEAD
 dragon fruit
-=======
 kiwi
->>>>>>> b91712c4150b00f1bb3b80603d67717449f04805
